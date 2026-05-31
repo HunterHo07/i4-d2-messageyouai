@@ -1,5 +1,7 @@
 # MessageYou - Visual-First Civic Platform
 
+Live Demo: https://i4-d2-messageyouai.vercel.app
+
 ## Startup Idea Summary
 MessageYou is a universal, visual-first platform where users can snap a photo (of a person, car, place, item, shop, etc.) to start or join a topic. AI maps the image to a real-world entity—enabling public discussion, community reports, and civic history. Everything from scam alerts to kind deeds can now be documented, linked, and tracked. No need to know names, platforms, or tags—just point, post, and connect.
 
